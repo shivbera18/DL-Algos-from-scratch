@@ -5,9 +5,6 @@ The intuition for ResNet is simple and clear, but to code
 it didn't feel super clear at first, even when reading Pytorch own
 implementation. 
 
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2020-04-12 Initial coding
-*    2022-12-20 Update comments, code revision, checked still works with latest PyTorch version
 """
 
 import torch
